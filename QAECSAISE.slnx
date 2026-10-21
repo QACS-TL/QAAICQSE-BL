@@ -1,0 +1,18 @@
+<Solution>
+    <Project Path="CopilotDemo/CopilotDemo/CopilotDemo.csproj" />
+    <Project Path="CopilotDemo/CoPilotDemo.Tests/CoPilotDemo.Tests.csproj" DisplayName="CopilotDemo.Tests" />
+    <Project Path="Lab1/Exemplar.Tests/Lab1.Exemplar.Tests.csproj" />
+    <Project Path="Lab1/Exemplar/Lab1.Exemplar.csproj" />
+    <Project Path="Lab1/Improved.Tests/Lab1.Improved.Tests.csproj" />
+    <Project Path="Lab1/Improved/Lab1.Improved.csproj" />
+    <Project Path="Lab2/Exemplar.Tests/Lab2.Exemplar.Tests.csproj" />
+    <Project Path="Lab2/Exemplar/Lab2.Exemplar.csproj" />
+    <Project Path="Lab2/Improved.Tests/Lab2.Improved.Tests.csproj" />
+    <Project Path="Lab2/Improved/Lab2.Improved.csproj" />
+    <Project Path="Lab3/Exemplar.Tests/Lab3.Exemplar.Tests.csproj" />
+    <Project Path="Lab3/Exemplar/Lab3.Exemplar.csproj" />
+    <Project Path="Lab3/Improved.Tests/Lab3.Improved.Tests.csproj" />
+    <Project Path="Lab3/Improved/Lab3.Improved.csproj" />
+    <Project Path="Lab3/Lab3.Owasp.Tests/Lab3.Owasp.Tests.csproj" Id="aa8ce609-8754-488a-b847-4f5d29167bfe" />
+    <Project Path="Lab3/OWASP/Lab3.Owasp.csproj" />
+</Solution>
